@@ -1,0 +1,10 @@
+div{
+    border-width: 1px;
+    border-style:solid;
+    border-color: black;
+}
+span{
+    border-width: 1px;
+    border-style: dotted;
+    border-color: red;
+}
